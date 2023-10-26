@@ -35,15 +35,15 @@ The simplest way to install all dependencies is by using [Anaconda](https://cond
 ## How to get started?
 - Since our code base follows the VoxelMorph Framework, the models with Continual Learning methods are trained in the same fashion.
 - If the VoxelMorph U-Net should be used for simple segmentation, please use the `--seg` flag, an example train script can be found [here](https://github.com/amrane99/Submissions/blob/WACV_2024_atlas/scripts/torch/train_abstract_unet.py).
-- The easiest way to start is using our `train_abstract_*.py` python files. For every baseline and Continual Learning method, we provide specific `train_abstract_*.py` python files, located in the [scripts folder](https://github.com/MECLabTUDA/Atlas-Replay/scripts/torch).
-- The [eval folder](https://github.com/MECLabTUDA/Atlas-Replay/eval) contains several jupyter notebooks that were used to calculate performance metrics and plots used in our submission.
+- The easiest way to start is using our `train_abstract_*.py` python files. For every baseline and Continual Learning method, we provide specific `train_abstract_*.py` python files, located in the [scripts folder](https://github.com/MECLabTUDA/Atlas-Replay/tree/main/scripts/torch).
+- The [eval folder](https://github.com/MECLabTUDA/Atlas-Replay/tree/main/eval) contains several jupyter notebooks that were used to calculate performance metrics and plots used in our submission.
 
 
 ## Data, splits and pre-trained models
 - **Data**: In our paper, we used seven publicly available prostate datasets where inter-subject samples are rigidly aligned using [SimpleITK](https://simpleitk.org/):
   - [Multi-site Dataset for Prostate MRI Segmentation](https://liuquande.github.io/SAML/)
   - [Prostate Dataset from the Medical Decathlon Challenge](https://drive.google.com/file/d/1Ff7c21UksxyT4JfETjaarmuKEjdqe1-a/view?usp=share_link)
-- **Splits**: The train and test splits which were used during training for all methods can be found in the [misc folder](https://github.com/MECLabTUDA/Atlas-Replay/misc) of this repository.
+- **Splits**: The train and test splits which were used during training for all methods can be found in the [misc folder](https://github.com/MECLabTUDA/Atlas-Replay/tree/main/misc) of this repository.
 - **Models**: Our pre-trained models from our submission can be provided by contacting the [main author](mailto:amin.ranem@gris.informatik.tu-darmstadt.de) upon request.
 - **Prototypes**: Our generated prototypes along with the preprocessed dataset can be requested [per mail](mailto:amin.ranem@gris.informatik.tu-darmstadt.de).
 
