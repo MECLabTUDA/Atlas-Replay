@@ -34,7 +34,7 @@ The simplest way to install all dependencies is by using [Anaconda](https://cond
 
 ## How to get started?
 - Since our code base follows the VoxelMorph Framework, the models with Continual Learning methods are trained in the same fashion.
-- If the VoxelMorph U-Net should be used for simple segmentation, please use the `--seg` flag, an example train script can be found [here](https://github.com/amrane99/Submissions/blob/WACV_2024_atlas/scripts/torch/train_abstract_unet.py).
+- If the VoxelMorph U-Net should be used for simple segmentation, please use the `--seg` flag, an example train script can be found [here](https://github.com/MECLabTUDA/Atlas-Replay/tree/main/scripts/torch/train_abstract_unet.py).
 - The easiest way to start is using our `train_abstract_*.py` python files. For every baseline and Continual Learning method, we provide specific `train_abstract_*.py` python files, located in the [scripts folder](https://github.com/MECLabTUDA/Atlas-Replay/tree/main/scripts/torch).
 - The [eval folder](https://github.com/MECLabTUDA/Atlas-Replay/tree/main/eval) contains several jupyter notebooks that were used to calculate performance metrics and plots used in our submission.
 
