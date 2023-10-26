@@ -1,0 +1,10 @@
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case26_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case27_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case28_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case29_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case30_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case31_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case33_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case35_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case36_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task113_UCL/labelsTr/Case37_0000.nii.gz

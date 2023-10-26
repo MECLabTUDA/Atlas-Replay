@@ -1,0 +1,9 @@
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case02_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case03_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case05_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case06_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case07_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case08_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case10_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case11_0000.nii.gz
+/home/aranem_locale/Desktop/mnts/local/scratch/aranem/Lifelong-nnUNet-storage/MIDL_2023/MIDL_2023_raw_data/clusters_rigid/nnUNet_ready_with_ts_folder_rigid_aligned/Task114_BIDMC/labelsTr/Case12_0000.nii.gz
